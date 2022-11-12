@@ -1,4 +1,4 @@
-## Mullet Melter
+## (Under constuction)Mullet Melter
 
 ![Rendering Mullet Melter](Misc/toolhead_pic.png)
 
@@ -40,18 +40,7 @@ MGN9C | 1 | 150mm
 
 Thanks to the following people on Discord who have helped get this printer finished:
 
-- @TheWarolf#1247
-- @L.e.o.p.a.r.d#0990
-- @deepfriedheroin#5006
-- @JosAr#0517
-- @sentein#3903
-- @madcat#7838
-- @Kyrios#5486
-- @faithblinded#1491
-- @zruncho#1790
-- @Finn#2449
-- @clee#1337
-- @slidr#4412
+- @test
 
 [You can support the Micron project on Patreon](https://www.patreon.com/user?u=27661824&fan_landing=true).
 
