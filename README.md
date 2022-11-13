@@ -4,44 +4,30 @@
 
 [![](https://img.shields.io/discord/825469421346226226?color=teal&label=Micron&logo=discord&logoColor=fafafa)](https://discord.gg/doomcube)
 
-[Doomcube Discord for support under doomy-worx/Mullet_Melter](https://discord.com/channels/825469421346226226/1028744277393674290)
+[Join the Doomcube Discord for support under doomy-worx/Mullet_Melter](https://discord.com/channels/825469421346226226/1028744277393674290)
 
-
+Requires (3) 3010 Blower Fans
 
 <details>
     <summary>
-    Frame Extrusions
+    Hardware Required
     </summary>
 
 
-Misumi Part #  |Qty | Notes
+Part           |Qty | Notes
  ----|----|----|
-HFS3-1515-300 |4 | Blind holes need to be drilled
-HFS3-1515-220 |10| Ends need to be tapped (M3)
-HFS3-1515-205 |2 |
-HFS3-1515-190 |1 |
-HFS3-1515-125 |1 |
+3010 Blower Fan|3 | 
+m3x6		   |5 | 
+m3x10 		   |4 | 
+m3x10 BHCS     |2 | Must be BHCS
+m3x12          |2 |
+heatset inserts|3 |
+LGx Lite       |1 |
+Voron Revo     |1 |
 </details>
 
 
-<details>
-    <summary>
-    Linear Rails
-    </summary>
+Thanks to the following people on Discord who have helped test pre-alpha:
 
-Part  | Qty | Length
------|----|-----|
-MGN7H | 6 | 150mm
-MGN9C | 1 | 150mm
-</details>
-
-
-
-
-Thanks to the following people on Discord who have helped get this printer finished:
-
-- @test
-
-[You can support the Micron project on Patreon](https://www.patreon.com/user?u=27661824&fan_landing=true).
-
-[Based on the Voron Design 2.4](https://github.com/VoronDesign/Voron-2)
+- @Dentox_
+- @bwnance
