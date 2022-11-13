@@ -1,12 +1,15 @@
 ## (Under constuction)Mullet Melter
 
+**What is the MulletMelter?**
+business in the front, business in the back, party on the sides
+
 ![Rendering Mullet Melter](Misc/toolhead_pic.png)
 
 [![](https://img.shields.io/discord/825469421346226226?color=teal&label=Micron&logo=discord&logoColor=fafafa)](https://discord.gg/doomcube)
 
 [Join the Doomcube Discord for support under doomy-worx/Mullet_Melter](https://discord.com/channels/825469421346226226/1028744277393674290)
 
-Requires (3) 3010 Blower Fans
+**Requires (3) 3010 Blower Fans**
 
 <details>
     <summary>
