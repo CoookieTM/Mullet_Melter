@@ -25,13 +25,14 @@ m3x6		   |5 |
 m3x10 		   |4 | 
 m3x10 BHCS     |2 | Must be BHCS
 m3x12          |2 |
+m3x8           |1 |
 heatset inserts|3 |
 LGx Lite       |1 |
-Voron Revo     |1 |
+Revo Voron     |1 |
 </details>
 
 
 Thanks to the following people on Discord who have helped test pre-alpha:
-test
+
 - @Dentox_
 - @bwnance
