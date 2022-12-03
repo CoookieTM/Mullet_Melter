@@ -12,6 +12,8 @@ business in the front, business in the back, party on the sides
 
 **Requires (3) 3010 Blower Fans**
 
+I have 160hrs of print time on this toolhead so far. (recent toy drive haha)
+
 <details>
     <summary>
     Hardware Required
